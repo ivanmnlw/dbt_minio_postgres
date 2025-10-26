@@ -1,0 +1,409 @@
+company,year,cost_dollar_in_thousands,market_dollar_in_thousands
+"Capital Cities Communications, Inc.",1977,10909,13228
+Government Employees Insurance Company Convertible Preferred,1977,19417,33033
+Government Employees Insurance Company Common Stock,1977,4116,10516
+"The Interpublic Group of Companies, Inc.",1977,4531,17187
+Kaiser Aluminum & Chemical Corporation,1977,11218,9981
+"Kaiser Industries, Inc.",1977,778,6039
+"Knight-Ridder Newspapers, Inc.",1977,7534,8736
+"Ogilvy & Mather International, Inc.",1977,2762,6960
+The Washington Post Company Class B,1977,10628,33401
+All Other Holdings,1977,34996,41992
+"American Broadcasting Companies, Inc.",1978,6082,8626
+Government Employees Insurance Company Common Stock,1978,4116,9060
+Government Employees Insurance Company Convertible Preferred,1978,19417,28314
+"Interpublic Group of Companies, Inc.",1978,4531,19039
+Kaiser Aluminum and Chemical Corporation,1978,18085,18671
+"Knight-Ridder Newspapers, Inc.",1978,7534,10267
+SAFECO Corporation,1978,23867,26467
+The Washington Post Company,1978,10628,43445
+All Other Holdings,1978,39506,57040
+"Affiliated Publications, Inc.",1979,2821,8800
+Amerada Hess,1979,2861,5487
+"American Broadcasting Companies, Inc.",1979,6082,9673
+GEICO Corp. (Common Stock),1979,28288,68045
+"General Foods, Inc.",1979,11437,11053
+Handy & Harman,1979,21825,38537
+"Interpublic Group of Companies, Inc.",1979,4531,23736
+Kaiser Aluminum & Chemical Corp.,1979,20629,23328
+"Media General, Inc.",1979,4545,7345
+"Ogilvy & Mather International, Inc.",1979,3709,7828
+SAFECO Corporation,1979,23867,35527
+The Washington Post Company,1979,10628,39241
+F. W. Woolworth Company,1979,15515,19394
+All Other Holdings,1979,28675,38686
+"Affiliated Publications, Inc.",1980,2821,12222
+Aluminum Company of America,1980,25577,27685
+Cleveland-Cliffs Iron Company,1980,12942,15894
+"General Foods, Inc.",1980,62507,59889
+GEICO Corporation,1980,47138,105300
+Handy & Harman,1980,21825,58435
+"Interpublic Group of Companies, Inc.",1980,4531,22135
+Kaiser Aluminum & Chemical Corp.,1980,20629,27569
+Media General,1980,4545,8334
+National Detroit Corporation,1980,5930,6299
+National Student Marketing,1980,5128,5895
+"Ogilvy & Mather International, Inc.",1980,3709,9981
+"Pinkerton's, Inc.",1980,12144,16489
+"R. J. Reynolds Industries, Inc.",1980,8702,11228
+SAFECO Corporation,1980,32062,45177
+The Times Mirror Company,1980,4447,6271
+The Washington Post Company,1980,10628,42277
+E W Woolworth Company,1980,13583,16511
+All Other Holdings,1980,26313,32096
+"Affiliated Publications, Inc.",1981,3297,14114
+Aluminum Company of America,1981,19359,18031
+Arcata Corporation,1981,14076,15136
+Cleveland-Cliffs Iron Company,1981,12942,14362
+GATX Corporation,1981,17147,13466
+"General Foods, Inc.",1981,66277,66714
+GEICO Corporation,1981,47138,199800
+Handy & Harman,1981,21825,36270
+"Interpublic Group of Companies, Inc.",1981,4531,23202
+Media General,1981,4545,11088
+Ogilvy & Mather International Inc.,1981,3709,12329
+"Pinkerton's, Inc.",1981,12144,19675
+"R. J. Reynolds Industries, Inc.",1981,76668,83127
+SAFECO Corporation,1981,21329,31016
+The Washington Post Company,1981,10628,58160
+All Other Holdings,1981,16131,22739
+"Affiliated Publications, Inc.",1982,3516,16929
+Crum & Forster,1982,47144,48962
+"General Foods, Inc.",1982,66277,83680
+GEICO Corporation,1982,47138,309600
+Handy & Harman,1982,27318,46692
+"Interpublic Group of Companies, Inc.",1982,4531,34314
+Media General,1982,4545,12289
+Ogilvy & Mather International Inc.,1982,3709,17319
+R. J. Reynolds Industries,1982,142343,158715
+"Time, Inc.",1982,45273,79824
+The Washington Post Company,1982,10628,103240
+All Other Holdings,1982,21611,34058
+"Affiliated Publications, Inc.",1983,3516,26603
+General Foods Corporation,1983,163786,228698
+GEICO Corporation,1983,47138,398156
+Handy & Harman,1983,27318,42231
+"Interpublic Group of Companies, Inc.",1983,4056,33088
+Media General,1983,3191,11191
+Ogilvy & Mather International,1983,2580,12833
+"R. J. Reynolds Industries, Inc.",1983,268918,341334
+"Time, Inc.",1983,27732,56860
+The Washington Post Company,1983,10628,136875
+All Other Holdings,1983,7485,18044
+"Affiliated Publications, Inc.",1984,3516,32908
+"American Broadcasting Companies, Inc.",1984,44416,46738
+Exxon Corporation,1984,173401,175307
+General Foods Corporation,1984,149870,226137
+GEICO Corporation,1984,45713,397300
+Handy & Harman,1984,27318,38662
+"Interpublic Group of Companies, Inc.",1984,2570,28149
+Northwest Industries,1984,26581,27242
+"Time, Inc.",1984,89327,109162
+The Washington Post Company,1984,10628,149955
+"Affiliated Publications, Inc.",1985,3516,55710
+"American Broadcasting Companies, Inc.",1985,54435,108997
+"Beatrice Companies, Inc.",1985,106811,108142
+GEICO Corporation,1985,45713,595950
+Handy & Harman,1985,27318,43718
+"Time, Inc.",1985,20385,52669
+The Washington Post Company,1985,9731,205172
+All Other Holdings,1985,7201,27963
+"Capital Cities/ABC, Inc.",1986,515775,801694
+GEICO Corporation,1986,45713,674725
+Handy & Harman,1986,27318,46989
+"Lear Siegler, Inc.",1986,44064,44587
+The Washington Post Company,1986,9731,269531
+All Other Holdings,1986,12763,36507
+"Capital Cities/ABC, Inc.",1987,517500,1035000
+GEICO Corporation,1987,45713,756925
+The Washington Post Company,1987,9731,323092
+"Capital Cities/ABC, Inc.",1988,517500,1086750
+GEICO Corporation,1988,45713,849400
+The Coca-Cola Company,1988,592540,632448
+The Washington Post Company,1988,9731,364126
+Federal Home Loan Mortgage Corp.,1988,71729,121200
+The Coca-Cola Company,1989,1023920,1803787
+"Capital Cities/ABC, Inc.",1989,517500,1692375
+GEICO Corporation,1989,45713,1044625
+The Washington Post Company,1989,9731,486366
+Federal Home Loan Mortgage Corp.,1989,71729,161100
+The Coca-Cola Company,1990,1023920,2171550
+"Capital Cities/ABC, Inc.",1990,517500,1377375
+GEICO Corporation,1990,45713,1110556
+The Washington Post Company,1990,9731,342097
+Federal Home Loan Mortgage Corp.,1990,71729,117000
+The Coca-Cola Company,1991,1023920,3737675
+GEICO Corporation,1991,45713,1363150
+The Gillette Company,1991,600000,1347000
+"Capital Cities/ABC, Inc.",1991,517500,1300500
+Federal Home Loan Mortgage Corp.,1991,77245,343090
+The Washington Post Company,1991,9731,336050
+Guinness plc,1991,264782,296755
+Wells Fargo & Company,1991,289431,290000
+The Coca-Cola Company,1992,1023920,3911125
+GEICO Corporation,1992,45713,2226250
+"Capital Cities/ABC, Inc.",1992,517500,1523500
+The Gillette Company,1992,600000,1365000
+Federal Home Loan Mortgage Corp.,1992,414527,783515
+Wells Fargo & Company,1992,380983,485624
+General Dynamics,1992,312438,450769
+The Washington Post Company,1992,9731,396954
+Guinness plc,1992,333019,299581
+The Coca-Cola Company,1993,1023920,4167975
+GEICO Corporation,1993,45713,1759594
+The Gillette Company,1993,600000,1431000
+"Capital Cities/ABC, Inc.",1993,345000,1239000
+Wells Fargo & Company,1993,423680,878614
+Federal Home Loan Mortgage Corp.,1993,307505,681023
+The Washington Post Company,1993,9731,440148
+General Dynamics,1993,94938,401287
+Guinness plc,1993,333019,270822
+The Coca-Cola Company,1994,1023920,5150000
+The Gillette Company,1994,600000,1797000
+"Capital Cities/ABC, Inc.",1994,345000,1705000
+GEICO Corporation,1994,45713,1678250
+Wells Fargo & Company,1994,423680,984272
+American Express Company,1994,723919,818918
+Federal Home Loan Mortgage Corp.,1994,270468,644441
+The Washington Post Company,1994,9731,418983
+PNC Bank Corporation,1994,503046,410951
+"Gannett Co., Inc",1994,335216,365002
+American Express Company,1995,1392700,2046300
+"Capital Cities/ABC, Inc.",1995,345000,2467500
+The Coca-Cola Company,1995,1298900,7425000
+Federal Home Loan Mortgage Corp.,1995,260100,1044000
+GEICO Corporation,1995,45700,2393200
+The Gillette Company,1995,600000,2502000
+Wells Fargo & Company,1995,423700,1466900
+American Express Company,1996,1392700,2794300
+The Coca-Cola Company,1996,1298900,10525000
+The Walt Disney Company,1996,577000,1716800
+Federal Home Loan Mortgage Corp.,1996,333400,1772800
+The Gillette Company,1996,600000,3732000
+McDonald's Corporation,1996,1265300,1368400
+The Washington Post Company,1996,10600,579000
+Wells Fargo & Company,1996,497800,1966900
+American Express Company,1997,1392700,4414000
+The Coca-Cola Company,1997,1298900,13337500
+The Walt Disney Company,1997,381200,2134800
+Freddie Mac,1997,329400,2683100
+The Gillette Company,1997,600000,4821000
+"Travelers Group, Inc.",1997,604400,1278600
+The Washington Post Company,1997,10600,840600
+Wells Fargo & Company,1997,412600,2270900
+American Express Company,1998,1470000,5180000
+The Coca-Cola Company,1998,1299000,13400000
+The Walt Disney Company,1998,281000,1536000
+Freddie Mac,1998,308000,3885000
+The Gillette Company,1998,600000,4590000
+The Washington Post Company,1998,11000,999000
+Wells Fargo & Company,1998,392000,2540000
+All Other Holdings,1998,2683000,5135000
+American Express Company,1999,1470000,8402000
+The Coca-Cola Company,1999,1299000,11650000
+The Walt Disney Company,1999,281000,1536000
+Freddie Mac,1999,294000,2803000
+The Gillette Company,1999,600000,3954000
+The Washington Post Company,1999,11000,960000
+Wells Fargo & Company,1999,349000,2391000
+All Other Holdings,1999,4180000,6848000
+American Express Company,2000,1470000,8329000
+The Coca-Cola Company,2000,1299000,12188000
+The Gillette Company,2000,600000,3468000
+The Washington Post Company,2000,11000,1066000
+Wells Fargo & Company,2000,319000,3067000
+All Other Holdings,2000,6703000,9501000
+American Express Company,2001,1470000,5410000
+The Coca-Cola Company,2001,1299000,9430000
+The Gillette Company,2001,600000,3206000
+"H&R Block, Inc.",2001,255000,715000
+Moody's Corporation,2001,499000,957000
+The Washington Post Company,2001,11000,916000
+Wells Fargo & Company,2001,306000,2315000
+All Other Holdings,2001,4103000,5726000
+American Express Company,2002,1470000,5359000
+The Coca-Cola Company,2002,1299000,8768000
+"H&R Block, Inc.",2002,255000,643000
+Moody's Corporation,2002,499000,991000
+The Washington Post Company,2002,11000,1275000
+Wells Fargo & Company,2002,306000,2497000
+All Other Holdings,2002,4621000,5383000
+American Express Company,2003,1470000,7312000
+The Coca-Cola Company,2003,1299000,10150000
+The Gillette Company,2003,600000,3562000
+"H&R Block, Inc.",2003,227000,809000
+HCA Inc.,2003,492000,665000
+M&T Bank Corporation,2003,103000,659000
+Moody's Corporation,2003,499000,1453000
+PetroChina Company Limited,2003,488000,1340000
+The Washington Post Company,2003,11000,1367000
+Wells Fargo & Company,2003,463000,3324000
+All Other Holdings,2003,2863000,4682000
+American Express Company,2004,1470000,8546000
+The Coca-Cola Company,2004,1299000,8328000
+The Gillette Company,2004,600000,4299000
+"H&R Block, Inc.",2004,233000,703000
+M&T Bank Corporation,2004,103000,723000
+Moody's Corporation,2004,499000,2084000
+"PetroChina ""H"" Shares (or  equivalents)",2004,488000,1249000
+The Washington Post Company,2004,11000,1698000
+Wells Fargo & Company,2004,463000,3508000
+White Mountain Insurance,2004,369000,1114000
+All Other Holdings,2004,3351000,5465000
+American Express Company,2005,1287000,7802000
+"Ameriprise Financial, Inc.",2005,183000,1243000
+"Anheuser-Busch, Inc.",2005,2133000,1844000
+The Coca-Cola Company,2005,1299000,8062000
+M&T Bank Corporation,2005,103000,732000
+Moody's Corporation,2005,499000,2084000
+"PetroChina ""H"" Shares (or  equivalents)",2005,488000,1915000
+The Procter & Gamble Company,2005,940000,5788000
+"Wal-Mart Stores, Inc.",2005,944000,933000
+The Washington Post Company,2005,11000,1322000
+Wells Fargo & Company,2005,2754000,5975000
+White Mountain Insurance,2005,369000,963000
+All Other Holdings,2005,4937000,7154000
+American Express Company,2006,1287000,9198000
+"Anheuser-Busch, Inc.",2006,1761000,1792000
+The Coca-Cola Company,2006,1299000,9650000
+ConocoPhillips,2006,1066000,1291000
+Johnson & Johnson,2006,1250000,1409000
+M&T Bank Corporation,2006,103000,820000
+Moody's Corporation,2006,499000,3315000
+"PetroChina ""H"" Shares (or  equivalents)",2006,488000,3313000
+POSCO,2006,572000,1158000
+The Procter & Gamble Company,2006,940000,6427000
+Tesco plc,2006,1340000,1820000
+U.S. Bancorp,2006,969000,1123000
+USG Corp.,2006,536000,936000
+"Wal-Mart Stores, Inc.",2006,942000,921000
+The Washington Post Company,2006,11000,1288000
+Wells Fargo & Company,2006,3697000,7758000
+White Mountain Insurance,2006,369000,999000
+All Other Holdings,2006,5866000,8315000
+American Express Company,2007,1287000,7887000
+"Anheuser-Busch, Inc.",2007,1718000,1861000
+Burlington Northern Santa Fe,2007,4731000,5063000
+The Coca-Cola Company,2007,1299000,12274000
+ConocoPhillips,2007,1039000,1546000
+Johnson & Johnson,2007,3943000,4287000
+"Kraft Foods, Inc.",2007,4152000,4059000
+Moody's Corporation,2007,499000,1714000
+POSCO,2007,572000,2136000
+The Procter & Gamble Company,2007,1030000,7450000
+Sanofi-Aventis,2007,1466000,1575000
+Tesco plc,2007,1326000,2156000
+U.S. Bancorp,2007,2417000,2386000
+USG Corp.,2007,536000,611000
+"Wal-Mart Stores, Inc.",2007,942000,948000
+The Washington Post Company,2007,11000,1367000
+Wells Fargo & Company,2007,6677000,9160000
+White Mountain Insurance,2007,369000,886000
+All Other Holdings,2007,5238000,7633000
+American Express Company,2008,1287000,2812000
+The Coca-Cola Company,2008,1299000,9054000
+ConocoPhillips,2008,7008000,4398000
+Johnson & Johnson,2008,1847000,1795000
+"Kraft Foods, Inc.",2008,4330000,3498000
+POSCO,2008,768000,1191000
+The Procter & Gamble Company,2008,643000,5684000
+Sanofi-Aventis,2008,1827000,1404000
+Swiss Re,2008,733000,530000
+Tesco plc,2008,1326000,1193000
+U.S. Bancorp,2008,2337000,1879000
+"Wal-Mart Stores, Inc.",2008,942000,1181000
+The Washington Post Company,2008,11000,674000
+Wells Fargo & Company,2008,6702000,8973000
+All Other Holdings,2008,6035000,4870000
+American Express Company,2009,1287000,6143000
+"BYD Company, Ltd.",2009,232000,1986000
+The Coca-Cola Company,2009,1299000,11400000
+ConocoPhillips,2009,2741000,1926000
+Johnson & Johnson,2009,1724000,1838000
+"Kraft Foods, Inc.",2009,4330000,3541000
+POSCO,2009,768000,2092000
+The Procter & Gamble Company,2009,533000,5040000
+Sanofi-Aventis,2009,2027000,1979000
+Tesco plc,2009,1367000,1620000
+U.S. Bancorp,2009,2371000,1725000
+"Wal-Mart Stores, Inc.",2009,1893000,2087000
+Wells Fargo & Company,2009,7394000,9021000
+All Other Holdings,2009,6680000,8636000
+American Express Company,2010,1287000,6507000
+"BYD Company, Ltd.",2010,232000,1182000
+The Coca-Cola Company,2010,1299000,13154000
+ConocoPhillips,2010,2028000,1982000
+Johnson & Johnson,2010,2749000,2785000
+"Kraft Foods, Inc.",2010,3207000,3063000
+Munich Re,2010,2896000,2924000
+POSCO,2010,768000,1706000
+The Procter & Gamble Company,2010,464000,4657000
+Sanofi,2010,2060000,1656000
+Tesco plc,2010,1414000,1608000
+U.S. Bancorp,2010,2401000,2105000
+"Wal-Mart Stores, Inc.",2010,1893000,2105000
+Wells Fargo & Company,2010,8015000,11123000
+All Other Holdings,2010,3020000,4956000
+American Express Company,2011,1287000,7151000
+The Coca-Cola Company,2011,1299000,13994000
+ConocoPhillips,2011,2027000,2121000
+International Business Machines Corp.,2011,10856000,11751000
+Johnson & Johnson,2011,1880000,2060000
+"Kraft Foods, Inc.",2011,2589000,2953000
+Munich Re,2011,2990000,2464000
+POSCO,2011,768000,1301000
+The Procter & Gamble Company,2011,464000,4829000
+Sanofi,2011,2055000,1900000
+Tesco plc,2011,1719000,1827000
+U.S. Bancorp,2011,2401000,2112000
+"Wal-Mart Stores, Inc.",2011,1893000,2333000
+Wells Fargo & Company,2011,9086000,11024000
+All Other Holdings,2011,6895000,9171000
+American Express Company,2012,1287000,8715000
+The Coca-Cola Company,2012,1299000,14500000
+ConocoPhillips,2012,1219000,1399000
+DirecTV,2012,1057000,1154000
+International Business Machines Corp.,2012,11680000,13048000
+Moody's Corporation,2012,2870000,1430000
+Munich Re,2012,2990000,3599000
+Phillips 66,2012,660000,1097000
+POSCO,2012,768000,1295000
+The Procter & Gamble Company,2012,336000,3563000
+Sanofi,2012,2073000,2438000
+Tesco plc,2012,2350000,2268000
+U.S. Bancorp,2012,2401000,2493000
+"Wal-Mart Stores, Inc.",2012,2837000,3741000
+Wells Fargo & Company,2012,10906000,15592000
+All Other Holdings,2012,7646000,11330000
+American Express Company,2013,1287000,13756000
+The Coca-Cola Company,2013,1299000,16524000
+DirecTV,2013,1017000,1536000
+Exxon Mobil Corp.,2013,3737000,4162000
+"The Goldman Sachs Group, Inc.",2013,750000,2315000
+International Business Machines Corp.,2013,11681000,12778000
+Moody's Corporation,2013,248000,1936000
+Munich Re,2013,2990000,4415000
+Phillips 66,2013,660000,1594000
+The Procter & Gamble Company,2013,336000,4272000
+Sanofi,2013,1747000,2354000
+Tesco plc,2013,1699000,1666000
+U.S. Bancorp,2013,3002000,3883000
+"Wal-Mart Stores, Inc.",2013,2976000,4470000
+Wells Fargo & Company,2013,11871000,21950000
+All Other Holdings,2013,11281000,19894000
+American Express Company,2014,1287000,14106000
+The Coca-Cola Company,2014,1299000,16888000
+DaVita HealthCare Partners Inc.,2014,843000,1402000
+Deere & Company,2014,1253000,1365000
+DirecTV,2014,1454000,2134000
+"The Goldman Sachs Group, Inc.",2014,750000,2532000
+International Business Machines Corp.,2014,13157000,12349000
+Moody's Corporation,2014,248000,2364000
+Munich Re,2014,2990000,4023000
+The Procter & Gamble Company,2014,336000,4638000
+Sanofi,2014,1721000,2032000
+U.S. Bancorp,2014,3033000,4355000
+USG Corp.,2014,836000,1214000
+"Wal-Mart Stores, Inc.",2014,3798000,5815000
+Wells Fargo & Company,2014,11871000,26504000
+All Other Holdings,2014,10180000,15704000
