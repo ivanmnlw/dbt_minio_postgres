@@ -44,6 +44,8 @@ with DAG(dag_id="demo", start_date=datetime(2022, 1, 1), schedule="0 0 * * *") a
                     "Cost ($ 000s)": "cost_dollar_in_thousands",
                     "Market ($ 000s)": "market_dollar_in_thousands"
                 }, inplace=True)
+        print("Hello")
+        print("test")
 
         df.to_csv("/opt/airflow/data/Berkshire_Stocks_1977-2024.csv", index=False)
         return df.head()
