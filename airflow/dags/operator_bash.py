@@ -49,6 +49,7 @@ with DAG(dag_id="demo", start_date=datetime(2022, 1, 1), schedule="0 0 * * *") a
         print("Yoo")
 
         print("New Branch Dev")
+        print("Branch 2")
 
         df.to_csv("/opt/airflow/data/Berkshire_Stocks_1977-2024.csv", index=False)
         return df.head()
